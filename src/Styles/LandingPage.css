@@ -1,0 +1,37 @@
+.lp{
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    justify-content: space-around;
+    margin-left: 18vw;
+}
+.creators {
+    width: 38vw;
+    height:34vh;
+    border-radius: 5px;
+    border: .5px white solid;
+}
+.collectors{
+    width: 36vw;
+    height:28vh;
+    border-radius: 5px;
+    border: .5px white solid;
+}
+.connect{
+    width: 22vw;
+    height:8vh;
+    border: 4px white solid;
+}
+.right{
+    position: relative;
+    bottom: 200px;
+    height: 54vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: flex-end; 
+   
+}
+h1{
+    color : white 
+}
