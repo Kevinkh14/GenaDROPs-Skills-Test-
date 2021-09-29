@@ -4,7 +4,11 @@ function Create() {
     return (
       <div >
           <NavBar />
-        
+        <div>
+            <div></div>
+            <div></div>
+            <div></div>
+        </div>
       </div>
     );
   }

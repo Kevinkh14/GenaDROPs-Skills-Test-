@@ -3,21 +3,26 @@
     align-items: center;
     height: 100vh;
     justify-content: space-around;
-    margin-left: 18vw;
+    margin-left: 12vw;
 }
 .creators {
-    width: 38vw;
+    display: flex;
+    justify-content: space-around;
+    width: 44vw;
     height:34vh;
     border-radius: 5px;
-    border: .5px white solid;
+    border: 1px #adadad solid;
 }
 .collectors{
-    width: 36vw;
-    height:28vh;
+    display: flex;
+    justify-content: space-around;
+    width: 38vw;
+    height:26vh;
     border-radius: 5px;
-    border: .5px white solid;
+    border: 1px #adadad solid;
 }
 .connect{
+    text-align: center;
     width: 22vw;
     height:8vh;
     border: 4px white solid;
@@ -25,11 +30,29 @@
 .right{
     position: relative;
     bottom: 200px;
+   
     height: 54vh;
     display: flex;
     flex-direction: column;
     justify-content: space-around;
     align-items: flex-end; 
+   
+}
+#cc-div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+.cc-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border:3px #00CC9B solid  ;
+    border-radius: 20px;
+    background-color: #27292C ;
+    width: 400px;
+    height: 60px;
    
 }
 h1{

@@ -7,24 +7,23 @@ function NavBar() {
     return (
       <div >
         <div className = 'nav'>
-          <Link to = "/" >
+          <Link to = "/" style = {{textDecoration :'none'}}>
             <section className = 'title'>
-            <h1>gena</h1>
-            <h1>DR</h1>
-            <h1>OP.</h1>
-            <p>create,mint,resell</p>
+            <h1 id = 'title-txt'>gena <br/>DR<br/>OP.
+            </h1>
+            <p>create, mint, resell</p>
             </section>
             </Link>
-            <div>
-              <Link to = "/Create"><IoCreate size = '8em' color = '#00CC9B'/>
+            <div className = 'icons'>
+              <Link to = "/Create" style = {{textDecoration :'none'}}><IoCreate size = '9em' color = '#00CC9B'/>
                 <h3>create</h3>
               </Link>  
-              <Link to = "/Mint">
-                <SiLeaflet size = '8em' color = '#00CC9B'/>
+              <Link to = "/Mint" style = {{textDecoration :'none'}}>
+                <SiLeaflet size = '9em' color = '#00CC9B'/>
                 <h3>mint</h3>
                 </Link>
-                <Link to = "/Explore">
-                <FaSearch size = '8em' color = '#00CC9B'/>
+                <Link to = "/Explore" style = {{textDecoration :'none'}}>
+                <FaSearch size = '9em' color = '#00CC9B'/>
                 <h3>explore</h3>
                 </Link>
             </div>
