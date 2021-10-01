@@ -5,7 +5,7 @@
     background-color: #27292C;
     width: 10vw;
     height: 100vh;
-    position: fixed;
+    position: absolute;
 }
 .title {
     margin-left: 350px;

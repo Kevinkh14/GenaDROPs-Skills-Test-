@@ -8,8 +8,9 @@ function LandingPage() {
       <div className="lp">
         <section>
           <div className="creators">
-              <div>
-            <h1>for creators</h1>
+              <div className = 'creator-container'>
+            <h1>For Creators</h1>
+              <img src = 'https://res.cloudinary.com/kevin14/image/upload/v1633022077/gena_j9nr2v.png'/>
             </div>
             <div id = 'cc-div'>
                 <section className = 'cc-container'><h3>create layer names</h3></section>
@@ -24,8 +25,9 @@ function LandingPage() {
             <h1>connect wallet</h1>
           </div>
           <div className="collectors">
-              <div> 
-                <h1>for collectors</h1>
+              <div className = 'collector-container'> 
+                <h1>For Collectors</h1>
+                <img src = 'https://res.cloudinary.com/kevin14/image/upload/v1633022073/drop_wxel1b.png'/>
               </div>
               <div id = 'cc-div'>
               <section className = 'cc-container'><h3>browse generative drops</h3></section>

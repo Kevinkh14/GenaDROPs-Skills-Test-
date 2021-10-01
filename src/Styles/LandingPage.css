@@ -55,6 +55,20 @@
     height: 60px;
    
 }
+.creator-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.collector-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    justify-content: space-between;
+    align-items: center; 
+}
 h1{
     color : white 
 }
