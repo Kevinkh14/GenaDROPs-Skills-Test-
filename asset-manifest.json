@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/GenaDROPs-Skills-Test-/static/css/main.acf8455a.chunk.css",
+    "main.js": "/GenaDROPs-Skills-Test-/static/js/main.7e94279e.chunk.js",
+    "main.js.map": "/GenaDROPs-Skills-Test-/static/js/main.7e94279e.chunk.js.map",
+    "runtime-main.js": "/GenaDROPs-Skills-Test-/static/js/runtime-main.edbbbcc9.js",
+    "runtime-main.js.map": "/GenaDROPs-Skills-Test-/static/js/runtime-main.edbbbcc9.js.map",
+    "static/js/2.b2411ba4.chunk.js": "/GenaDROPs-Skills-Test-/static/js/2.b2411ba4.chunk.js",
+    "static/js/2.b2411ba4.chunk.js.map": "/GenaDROPs-Skills-Test-/static/js/2.b2411ba4.chunk.js.map",
+    "static/js/3.437c191d.chunk.js": "/GenaDROPs-Skills-Test-/static/js/3.437c191d.chunk.js",
+    "static/js/3.437c191d.chunk.js.map": "/GenaDROPs-Skills-Test-/static/js/3.437c191d.chunk.js.map",
+    "index.html": "/GenaDROPs-Skills-Test-/index.html",
+    "static/css/main.acf8455a.chunk.css.map": "/GenaDROPs-Skills-Test-/static/css/main.acf8455a.chunk.css.map",
+    "static/js/2.b2411ba4.chunk.js.LICENSE.txt": "/GenaDROPs-Skills-Test-/static/js/2.b2411ba4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.edbbbcc9.js",
+    "static/js/2.b2411ba4.chunk.js",
+    "static/css/main.acf8455a.chunk.css",
+    "static/js/main.7e94279e.chunk.js"
+  ]
+}
