@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/GenaDROPs-Skills-Test-/static/css/main.5dade2c9.chunk.css",
-    "main.js": "/GenaDROPs-Skills-Test-/static/js/main.e80648cb.chunk.js",
-    "main.js.map": "/GenaDROPs-Skills-Test-/static/js/main.e80648cb.chunk.js.map",
+    "main.js": "/GenaDROPs-Skills-Test-/static/js/main.733139fd.chunk.js",
+    "main.js.map": "/GenaDROPs-Skills-Test-/static/js/main.733139fd.chunk.js.map",
     "runtime-main.js": "/GenaDROPs-Skills-Test-/static/js/runtime-main.40682f11.js",
     "runtime-main.js.map": "/GenaDROPs-Skills-Test-/static/js/runtime-main.40682f11.js.map",
     "static/js/2.28d7aa5b.chunk.js": "/GenaDROPs-Skills-Test-/static/js/2.28d7aa5b.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.40682f11.js",
     "static/js/2.28d7aa5b.chunk.js",
     "static/css/main.5dade2c9.chunk.css",
-    "static/js/main.e80648cb.chunk.js"
+    "static/js/main.733139fd.chunk.js"
   ]
 }
