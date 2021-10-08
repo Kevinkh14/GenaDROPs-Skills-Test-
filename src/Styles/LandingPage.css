@@ -20,12 +20,16 @@
     height:26vh;
     border-radius: 5px;
     border: 1px #adadad solid;
+    margin-bottom: 300px;
 }
 .connect{
     text-align: center;
     width: 22vw;
     height:8vh;
     border: 4px white solid;
+    position: absolute;
+    right: 0px;
+    top:20px
 }
 .right{
     position: relative;
@@ -51,8 +55,8 @@
     border:3px #00CC9B solid  ;
     border-radius: 20px;
     background-color: #27292C ;
-    width: 400px;
-    height: 60px;
+    width: 22vw;
+    height: 7vh;
    
 }
 .creator-container{
@@ -71,4 +75,66 @@
 }
 h1{
     color : white 
+}
+.lp-img{
+    width: 12vw;
+}
+@media(max-width:1150px){
+    .lp{
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-evenly;
+        /* margin-top:30px ; */
+        margin: 0;
+    }
+    .creators{
+        width: 60vw;
+        margin-top: 10vh;
+    }
+    .collectors{
+        margin-bottom: 0px;
+        width: 60vw;
+    }
+    .cc-container{
+        width: 24vw;
+    }
+   .connect{
+       top:100px;
+       width: 200px;
+       height: 40px;
+       margin-right:60px
+   }
+   #connect-txt{
+       font-size: 20px;
+   }
+}
+@media(max-width:630px){
+    .creators{
+        width: 90vw;
+        height: 30vh;
+    }
+    .collectors{
+        width: 90vw;
+        height: 20vh;
+    }
+    .cc-container{
+        width: 40vw;
+        height: 5vh;
+    }
+    #list{
+        font-size: 10px;
+    }
+    .lp-img{
+        width:30vw
+    }
+    h1{
+        font-size: 20px;
+    }
+    .connect{
+        top:100px;
+        right:2px;
+        width: 150px;
+        height: 30px;
+        margin: 0;
+    }
 }
