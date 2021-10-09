@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/GenaDROPs-Skills-Test-/static/css/main.5ee63087.chunk.css",
-    "main.js": "/GenaDROPs-Skills-Test-/static/js/main.ed70f329.chunk.js",
-    "main.js.map": "/GenaDROPs-Skills-Test-/static/js/main.ed70f329.chunk.js.map",
+    "main.css": "/GenaDROPs-Skills-Test-/static/css/main.36f8eb44.chunk.css",
+    "main.js": "/GenaDROPs-Skills-Test-/static/js/main.2169dd35.chunk.js",
+    "main.js.map": "/GenaDROPs-Skills-Test-/static/js/main.2169dd35.chunk.js.map",
     "runtime-main.js": "/GenaDROPs-Skills-Test-/static/js/runtime-main.40682f11.js",
     "runtime-main.js.map": "/GenaDROPs-Skills-Test-/static/js/runtime-main.40682f11.js.map",
-    "static/js/2.e7cebaa9.chunk.js": "/GenaDROPs-Skills-Test-/static/js/2.e7cebaa9.chunk.js",
-    "static/js/2.e7cebaa9.chunk.js.map": "/GenaDROPs-Skills-Test-/static/js/2.e7cebaa9.chunk.js.map",
+    "static/js/2.70804245.chunk.js": "/GenaDROPs-Skills-Test-/static/js/2.70804245.chunk.js",
+    "static/js/2.70804245.chunk.js.map": "/GenaDROPs-Skills-Test-/static/js/2.70804245.chunk.js.map",
     "static/js/3.d5f6044f.chunk.js": "/GenaDROPs-Skills-Test-/static/js/3.d5f6044f.chunk.js",
     "static/js/3.d5f6044f.chunk.js.map": "/GenaDROPs-Skills-Test-/static/js/3.d5f6044f.chunk.js.map",
     "index.html": "/GenaDROPs-Skills-Test-/index.html",
-    "static/css/main.5ee63087.chunk.css.map": "/GenaDROPs-Skills-Test-/static/css/main.5ee63087.chunk.css.map",
-    "static/js/2.e7cebaa9.chunk.js.LICENSE.txt": "/GenaDROPs-Skills-Test-/static/js/2.e7cebaa9.chunk.js.LICENSE.txt"
+    "static/css/main.36f8eb44.chunk.css.map": "/GenaDROPs-Skills-Test-/static/css/main.36f8eb44.chunk.css.map",
+    "static/js/2.70804245.chunk.js.LICENSE.txt": "/GenaDROPs-Skills-Test-/static/js/2.70804245.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.40682f11.js",
-    "static/js/2.e7cebaa9.chunk.js",
-    "static/css/main.5ee63087.chunk.css",
-    "static/js/main.ed70f329.chunk.js"
+    "static/js/2.70804245.chunk.js",
+    "static/css/main.36f8eb44.chunk.css",
+    "static/js/main.2169dd35.chunk.js"
   ]
 }
